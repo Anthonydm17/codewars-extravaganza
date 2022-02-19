@@ -15,8 +15,25 @@ To embed an image in the README.md, just add some HTML! (markdown will render so
 ```
 
 ## Screenshots
-
-```[insert your succeess screenshots here]```
+<img src="fold_to_moon.png" width="400px">
+<br>
+<img src="high_and_low.png" width="400px">
+<br>
+<img src="middle_character.png" width="400px" >
+<br>
+<img src="multiply.png" width="400px">
+<br>
+<img src="remove.png" width="400px">
+<br>
+<img src="shortest_word.png" width="400px">
+<br>
+<img src="smallest_integer.png" width="400px">
+<br>
+<img src="sum_of_numbers.png" width="400px">
+<br>
+<img src="sum_of_positives.png" width="400px">
+<br>
+<img src="vowels.png" width="400px">
 
 ## Problems
 
